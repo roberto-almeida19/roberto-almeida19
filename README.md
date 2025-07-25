@@ -55,8 +55,3 @@
 - 📘 Currently reading: *21 Lessons for the 21st Century* by Yuval Harari and *Fundamentals of Data Engineering* (O'Reilly)  
 - 🧘‍♂️ In my free time, I explore different religions and dive deep into self-development topics  
 
-
----
-
-   ![Snake animation](https://github.com/roberto-almeida19/roberto-almeida19/blob/output/github-contribution-grid-snake.svg)
-
