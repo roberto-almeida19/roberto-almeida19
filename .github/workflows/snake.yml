@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: MacBook-Pro-de-Roberto
+    runs-on: self-hosted
     steps:
       # Snake Animation
       - uses: Platane/snk@master
