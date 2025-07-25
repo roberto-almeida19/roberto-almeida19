@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: self-hosted
+    runs-on: ['self-hosted', 'macOS', 'X64']
     steps:
       # Snake Animation
       - uses: Platane/snk@master
