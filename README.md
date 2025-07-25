@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hey there! I'm Roberto Almeida
 
-<!--
-**roberto-almeida19/roberto-almeida19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Engineer at Bradesco  
+☁️ Focused on Databricks, Kubernetes, and AWS  
+🚀 Passionate about building scalable data platforms and reducing time-to-insight
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apache-spark)
+![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=databricks)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roberto-almeida19&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-almeida19&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🚧 Featured Projects
+
+- WIP
+
+---
+
+## 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertoalmeida19/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roberto-almeida19@outlook.com)
+
+---
+
+## ⚡ Fun Facts
+
+
+- 🔍 Always tuning Spark jobs and optimizing storage  
+- 📘 Currently reading: *21 Lessons for the 21st Century* by Yuval Harari and *Fundamentals of Data Engineering* (O'Reilly)  
+- 🧘‍♂️ In my free time, I explore different religions and dive deep into self-development topics  
+
+
+---
