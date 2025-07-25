@@ -51,3 +51,6 @@
 
 
 ---
+
+   ![Snake animation](https://github.com/roberto-almeida19/roberto-almeida19/blob/output/github-contribution-grid-snake.svg)
+
