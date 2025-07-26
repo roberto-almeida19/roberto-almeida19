@@ -52,6 +52,6 @@
 
 
 - 🔍 Always tuning Spark jobs and optimizing storage  
-- 📘 Currently reading: *21 Lessons for the 21st Century* by Yuval Harari and *Fundamentals of Data Engineering* (O'Reilly)  
+- 📘 Currently reading: *21 Lessons for the 21st Century* by Yuval Harari and *Fundamentals of Data Engineering* (Joe Reis)  
 - 🧘‍♂️ In my free time, I explore different religions and dive deep into self-development topics  
 
